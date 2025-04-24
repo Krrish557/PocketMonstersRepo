@@ -174,3 +174,6 @@ pokemonster/logs/
 # VS Code / Editor settings
 .vscode/
 .idea/
+
+
+pokemonster/config.py
