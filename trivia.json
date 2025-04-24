@@ -1,0 +1,604 @@
+{
+    "results": [
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which Pokemon is known as the 'Flame Pokemon'?",
+            "correct_answer": "Charmander",
+            "incorrect_answers": [
+                "Bulbasaur",
+                "Squirtle",
+                "Pikachu"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What type is Gyarados, a powerful evolution of Magikarp?",
+            "correct_answer": "Water/Flying",
+            "incorrect_answers": [
+                "Water/Dragon",
+                "Water",
+                "Dragon/Flying"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which Legendary Pokemon is known as the 'Diving Pokemon'?",
+            "correct_answer": "Lugia",
+            "incorrect_answers": [
+                "Ho-Oh",
+                "Kyogre",
+                "Manaphy"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which Pokemon is known as the 'Seed Pokemon'?",
+            "correct_answer": "Bulbasaur",
+            "incorrect_answers": [
+                "Chikorita",
+                "Treecko",
+                "Turtwig"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which Pokemon evolves from Eevee when exposed to a Water Stone?",
+            "correct_answer": "Vaporeon",
+            "incorrect_answers": [
+                "Jolteon",
+                "Flareon",
+                "Espeon"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which Pokemon is known as the 'Bubble Jet Pokemon'?",
+            "correct_answer": "Blastoise",
+            "incorrect_answers": [
+                "Wartortle",
+                "Squirtle",
+                "Golduck"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the Pokemon series, which type is strong against both Grass and Bug types?",
+            "correct_answer": "Fire",
+            "incorrect_answers": [
+                "Water",
+                "Electric",
+                "Ice"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the starting Pokemon in the Kanto region?",
+            "correct_answer": "Bulbasaur",
+            "incorrect_answers": [
+                "Charmander",
+                "Squirtle",
+                "Pikachu"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which Pokemon is known as the 'Mouse Pokemon'?",
+            "correct_answer": "Pikachu",
+            "incorrect_answers": [
+                "Rattata",
+                "Micechu",
+                "Pichu"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What type of Pokemon is Jigglypuff?",
+            "correct_answer": "Normal/Fairy",
+            "incorrect_answers": [
+                "Normal",
+                "Fairy",
+                "Fairy/Flying"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which Pokemon evolves from Charmander?",
+            "correct_answer": "Charmeleon",
+            "incorrect_answers": [
+                "Charizard",
+                "Charfire",
+                "Charmeleaf"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which Pokemon is known as the 'Water-type Pokemon'?",
+            "correct_answer": "Squirtle",
+            "incorrect_answers": [
+                "Bulbasaur",
+                "Charmander",
+                "Pikachu"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the evolved form of Pidgeotto?",
+            "correct_answer": "Pidgeot",
+            "incorrect_answers": [
+                "Pidgey",
+                "Pidgeotto2",
+                "Pidgeawesom"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the highest level a Pikachu can evolve?",
+            "correct_answer": "100",
+            "incorrect_answers": [
+                "50",
+                "75",
+                "150"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which Pokemon has the Pokédex number 025?",
+            "correct_answer": "Pikachu",
+            "incorrect_answers": [
+                "Jigglypuff",
+                "Raichu",
+                "Meowth"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "difficult",
+            "question": "Which Legendary Pokemon can control time and resides at the Spear Pillar in the Sinnoh region?",
+            "correct_answer": "Dialga",
+            "incorrect_answers": [
+                "Palkia",
+                "Giratina",
+                "Arceus"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "difficult",
+            "question": "What type of Pokemon is Darkrai?",
+            "correct_answer": "Dark",
+            "incorrect_answers": [
+                "Ghost",
+                "Psychic",
+                "Fairy"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "difficult",
+            "question": "In which generation of Pokemon games was the Fairy type first introduced?",
+            "correct_answer": "Generation VI (6)",
+            "incorrect_answers": [
+                "Generation V (5)",
+                "Generation IV (4)",
+                "Generation VII (7)"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "difficult",
+            "question": "Which Eeveelution is known for its adaptability and ability to evolve into different types?",
+            "correct_answer": "Eevee",
+            "incorrect_answers": [
+                "Espeon",
+                "Umbreon",
+                "Sylveon"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "difficult",
+            "question": "In the Pokemon games, which move has the highest base power?",
+            "correct_answer": "Eruption",
+            "incorrect_answers": [
+                "Hyper Beam",
+                "Explosion",
+                "V-create"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "difficult",
+            "question": "What is the name of the villainous team in the Pokemon Ruby, Sapphire, and Emerald games?",
+            "correct_answer": "Team Aqua and Team Magma",
+            "incorrect_answers": [
+                "Team Rocket",
+                "Team Galactic",
+                "Team Plasma"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "difficult",
+            "question": "Which of the following is a move that only the Pokemon Ditto can learn?",
+            "correct_answer": "Transform",
+            "incorrect_answers": [
+                "Mimic",
+                "Copycat",
+                "Imitate"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "difficult",
+            "question": "What type of Pokemon are typically weak against Fighting-type moves?",
+            "correct_answer": "Normal",
+            "incorrect_answers": [
+                "Psychic",
+                "Flying",
+                "Rock"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which Pokemon game introduced the concept of Mega Evolution?",
+            "correct_answer": "Pokemon X and Y",
+            "incorrect_answers": [
+                "Pokemon Black and White",
+                "Pokemon Ruby and Sapphire",
+                "Pokemon Sun and Moon"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the Pokemon series, which region is the setting for the games Pokemon Diamond and Pearl?",
+            "correct_answer": "Sinnoh",
+            "incorrect_answers": [
+                "Kanto",
+                "Johto",
+                "Hoenn"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which legendary Pokemon is featured on the box art of Pokemon Red and FireRed?",
+            "correct_answer": "Articuno",
+            "incorrect_answers": [
+                "Moltres",
+                "Zapdos",
+                "Mewtwo"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the game 'Pokemon Emerald', which Team attempts to control the Legendary Pokemon Rayquaza?",
+            "correct_answer": "Team Aqua and Team Magma",
+            "incorrect_answers": [
+                "Team Rocket",
+                "Team Galactic",
+                "Team Plasma"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which Pokemon game introduced the Battle Frontier, a facility with various challenging battle scenarios?",
+            "correct_answer": "Pokemon Emerald",
+            "incorrect_answers": [
+                "Pokemon Ruby and Sapphire",
+                "Pokemon FireRed and LeafGreen",
+                "Pokemon Diamond and Pearl"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the Pokemon series, which region is the setting for the games Pokemon Black and White?",
+            "correct_answer": "Unova",
+            "incorrect_answers": [
+                "Sinnoh",
+                "Johto",
+                "Hoenn"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the game 'Pokemon Red and Blue', which city is known as the 'Cerulean City'?",
+            "correct_answer": "City of Water",
+            "incorrect_answers": [
+                "City of Bridges",
+                "City of Lights",
+                "City of Stars"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the Pokemon series, which region is the setting for the games Pokemon HeartGold and SoulSilver?",
+            "correct_answer": "Johto",
+            "incorrect_answers": [
+                "Kanto",
+                "Hoenn",
+                "Sinnoh"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who is the main character in the Pokemon anime series?",
+            "correct_answer": "Ash Ketchum",
+            "incorrect_answers": [
+                "Brock",
+                "Gary Oak",
+                "Red"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the name of Ash Ketchum's rival in the Pokemon anime?",
+            "correct_answer": "Gary Oak",
+            "incorrect_answers": [
+                "Brock",
+                "James",
+                "Paul"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the Pokemon anime, which Pokemon is famously known for saying 'Pika-Pika!'?",
+            "correct_answer": "Pikachu",
+            "incorrect_answers": [
+                "Raichu",
+                "Jolteon",
+                "Pichu"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the name of the group that follows Ash Ketchum in the Pokemon anime?",
+            "correct_answer": "Team Rocket",
+            "incorrect_answers": [
+                "Team Aqua",
+                "Team Magma",
+                "Team Galactic"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "difficult",
+            "question": "In the Pokemon anime, what is the name of the island where Ash and his friends met the Legendary Pokemon Lugia?",
+            "correct_answer": "Silver Rock Isle",
+            "incorrect_answers": [
+                "Mirage Island",
+                "Mystery Island",
+                "Crystal Isle"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "difficult",
+            "question": "Which Pokemon is known as 'The Original One' in the lore of the Pokemon anime?",
+            "correct_answer": "Arceus",
+            "incorrect_answers": [
+                "Mew",
+                "Mewtwo",
+                "Ditto"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "difficult",
+            "question": "What is the title of the first Pokemon movie, released in 1998?",
+            "correct_answer": "Pokemon: The First Movie - Mewtwo Strikes Back",
+            "incorrect_answers": [
+                "Pokemon: The Movie - Mewtwo Returns",
+                "Pokemon: The Beginning",
+                "Pokemon: The Legendary Battle"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "difficult",
+            "question": "In the Pokemon anime, who was the first Gym Leader Ash Ketchum defeated to earn a badge?",
+            "correct_answer": "Brock",
+            "incorrect_answers": [
+                "Misty",
+                "Lt. Surge",
+                "Erika"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "difficult",
+            "question": "In the Pokemon anime, who is the leader of the Kalos region's Team Flare?",
+            "correct_answer": "Lysandre",
+            "incorrect_answers": [
+                "Giovanni",
+                "Cyrus",
+                "Ghetsis"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "difficult",
+            "question": "What is the name of Ash Ketchum's father in the Pokemon anime?",
+            "correct_answer": "Delia's Mr. Ketchum",
+            "incorrect_answers": [
+                "Professor Oak",
+                "Professor Kukui",
+                "Mr. Mime"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "difficult",
+            "question": "In the Pokemon anime's Indigo League season, which Pokemon did Ash use to defeat the Elite Four member Lorelei?",
+            "correct_answer": "Charizard",
+            "incorrect_answers": [
+                "Pikachu",
+                "Blastoise",
+                "Venusaur"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "difficult",
+            "question": "In the Pokemon anime, what special power does Ash's Greninja possess in its Ash-Greninja form?",
+            "correct_answer": "Battle Bond",
+            "incorrect_answers": [
+                "Mega Evolution",
+                "Z-Move",
+                "Syncro Evolution"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "difficult",
+            "question": "In the Pokemon anime, who is the leader of Team Galactic?",
+            "correct_answer": "Cyrus",
+            "incorrect_answers": [
+                "Giovanni",
+                "Lysandre",
+                "Ghetsis"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "difficult",
+            "question": "Which Pokemon, known for its illusion abilities, is owned by the character Zoroark in the anime?",
+            "correct_answer": "Zoroark",
+            "incorrect_answers": [
+                "Greninja",
+                "Lucario",
+                "Mimikyu"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "difficult",
+            "question": "In the Pokemon anime, which Legendary Pokemon does Ash rescue from the control of Team Rocket?",
+            "correct_answer": "Latias",
+            "incorrect_answers": [
+                "Latios",
+                "Lugia",
+                "Mewtwo"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "difficult",
+            "question": "In the Pokemon anime's Johto Journeys season, what is the name of the fourth gym leader Ash faces in the Johto region?",
+            "correct_answer": "Morty",
+            "incorrect_answers": [
+                "Erika",
+                "Sabrina",
+                "Blaine"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "difficult",
+            "question": "In the Pokemon anime, who is the current Champion of the Kalos region's Elite Four?",
+            "correct_answer": "Diantha",
+            "incorrect_answers": [
+                "Cynthia",
+                "Alder",
+                "Steven"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "difficult",
+            "question": "What is the name of the organization in the Pokemon anime that Ash and his friends encounter during the Alola region?",
+            "correct_answer": "Team Skull",
+            "incorrect_answers": [
+                "Team Rocket",
+                "Team Galactic",
+                "Team Magma"
+            ]
+        },
+        {
+            "category": "Entertainment: Pokemon",
+            "type": "multiple",
+            "difficulty": "difficult",
+            "question": "In the Pokemon anime's Johto Journeys season, what is the name of the Pokemon that evolves from Totodile?",
+            "correct_answer": "Croconaw",
+            "incorrect_answers": [
+                "Feraligatr",
+                "Wartortle",
+                "Quilava"
+            ]
+        }
+    ]
+}

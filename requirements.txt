@@ -1,0 +1,8 @@
+mysql.connector
+dnspython
+pymongo
+PyMySQL
+pyrogram
+python-dotenv
+TgCrypto
+motor

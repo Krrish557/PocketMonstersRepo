@@ -1,0 +1,41 @@
+{
+    "name": "PocketMonstersBot",
+    "description": "A Telegram Bot to catch pokemons",
+    "success_url": "https://github.com/Krrish557/PocketMonsters",
+    "website": "https://github.com/Krrish557/PocketMonsters",
+    "repository": "https://github.com/Krrish557/PocketMonsters",
+    "env": {
+        "ENV": {
+            "description": "Setting this to ANYTHING will enable heroku",
+            "value": "ANYTHING"
+        },
+        "BOT_TOKEN": {
+            "description": "6129087427:AAGg8-lcYLaetdMZlYq22F9FOfIYClUJFWM",
+            "value": ""
+        },
+        "API_ID": {
+            "description": "Get this value from https://my.telegram.org",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "Get this value from https://my.telegram.org",
+            "value": ""
+        },
+        "MONGO_NAME": {
+            "description": "Mongo DB name",
+            "value": ""
+        },
+        "MONG_URI": {
+            "description": "Mongo db url",
+            "value": ""
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+        },
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
